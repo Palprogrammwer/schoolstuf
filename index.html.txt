@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Paul's Website</title>
+</head>
+<body>
+  <h1>Hallo, ich bin Paul!</h1>
+  <p>Das ist meine erste echte Website 🚀</p>
+</body>
+</html>
